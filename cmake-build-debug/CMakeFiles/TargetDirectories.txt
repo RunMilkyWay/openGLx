@@ -1,0 +1,3 @@
+/Users/tomasmacbook/CLionProjects/openGL/cmake-build-debug/CMakeFiles/openGLx.dir
+/Users/tomasmacbook/CLionProjects/openGL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tomasmacbook/CLionProjects/openGL/cmake-build-debug/CMakeFiles/rebuild_cache.dir

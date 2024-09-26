@@ -1,0 +1,19 @@
+# ninja log v6
+6	121	1727376337175167863	CMakeFiles/openGLx.dir/main.cpp.o	929ace160372ee09
+20	604	1727376320514960738	CMakeFiles/openGLx.dir/imguiC/imgui_demo.cpp.o	c6fbc95103a52a53
+22	144	1727376614271045888	openGLx	59eecf1ddea7fbad
+19	564	1727376320514608165	CMakeFiles/openGLx.dir/imguiC/imgui_draw.cpp.o	6aba8830c550c754
+19	811	1727376320514486210	CMakeFiles/openGLx.dir/imguiC/imgui.cpp.o	515892a088dc297d
+133	481	1727376320628705399	CMakeFiles/openGLx.dir/imguiC/imgui_tables.cpp.o	abf056cf64f94c41
+19	560	1727376320514346756	CMakeFiles/openGLx.dir/libs/imgui_impl_glfw.cpp.o	9a2b337a42e3dcde
+169	771	1727376320664610733	CMakeFiles/openGLx.dir/imguiC/imgui_widgets.cpp.o	e677375d9fbafd81
+19	169	1727376320514198260	CMakeFiles/openGLx.dir/libs/imgui_impl_opengl3.cpp.o	3aa8c53c7160e248
+17	136	1727376826813617265	CMakeFiles/openGLx.dir/main.cpp.o	2a161ea2cbf4e75b
+18	152	1727376826814272794	CMakeFiles/openGLx.dir/libs/imgui_impl_opengl3.cpp.o	c21d54058afa41e
+137	499	1727376826933240003	CMakeFiles/openGLx.dir/imguiC/imgui_tables.cpp.o	8a053497614231b4
+19	521	1727376826815624101	CMakeFiles/openGLx.dir/imguiC/imgui_draw.cpp.o	c68c6617c52df8ab
+18	538	1727376826814496539	CMakeFiles/openGLx.dir/libs/imgui_impl_glfw.cpp.o	e45c15eb2467a66
+21	568	1727376826817412441	CMakeFiles/openGLx.dir/imguiC/imgui_demo.cpp.o	ba5beb06a5812344
+152	739	1727376826948599452	CMakeFiles/openGLx.dir/imguiC/imgui_widgets.cpp.o	d6b1248fd708f910
+18	783	1727376826814898990	CMakeFiles/openGLx.dir/imguiC/imgui.cpp.o	9c8f3b14e8ea4dbe
+783	980	1727376827580022365	openGLx	59eecf1ddea7fbad
