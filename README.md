@@ -1,4 +1,4 @@
-GLFW OpenGL3 MyGUI Project
+GLFW OpenGL3 MyGUI Project (DEMO)
 
 Overview
 
