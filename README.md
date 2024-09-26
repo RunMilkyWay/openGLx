@@ -8,9 +8,15 @@ Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-	•	macOS 
+	•	macOS (latest version recommended)
 	•	CMake (version 3.15 or higher)
-	•	Clion
+	•	CLion (latest version recommended)
 	•	GLFW library
 	•	OpenGL library
 	•	MyGUI library
+
+Acknowledgments
+
+	•	GLFW - The windowing library used.
+	•	OpenGL - The rendering API utilized.
+	•	MyGUI - The GUI library implemented in this project.
