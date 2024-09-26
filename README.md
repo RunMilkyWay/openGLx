@@ -10,7 +10,7 @@ Before you begin, ensure you have met the following requirements:
 
 	•	macOS (latest version recommended)
 	•	CMake (version 3.15 or higher)
-	•	CLion (latest version recommended)
+	•	CLion (or other IDE)
 	•	GLFW library
 	•	OpenGL library
 	•	MyGUI library
