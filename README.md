@@ -19,4 +19,4 @@ Acknowledgments
 
 	•	GLFW - The windowing library used.
 	•	OpenGL - The rendering API utilized.
-	•	MyGUI - The GUI library implemented in this project.
+	•	Dear MyGUI - The GUI library implemented in this project.
